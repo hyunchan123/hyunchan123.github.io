@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "2034017_문현찬_운영체제"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "hyun chan"
 description              : "An amazing website."
 url                      : "https://hyunchan123.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"

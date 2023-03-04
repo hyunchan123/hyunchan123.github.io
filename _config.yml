@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : #"Your Name"
+  name             : "HYUN CHAN"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : #"I am an **amazing** person."
-  location         : #"Somewhere"
+  bio              : "운영체제"
+  location         : "Bucheon"
   email            :
   links:
     - label: "Email"
@@ -132,10 +132,10 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label: #"Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
+    - label: #"Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
@@ -144,10 +144,10 @@ footer:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
+    - label: #"Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
+    - label: #"Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
 

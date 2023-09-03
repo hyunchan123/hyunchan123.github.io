@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "HYUN CHAN"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : 
+  bio              : "운영체제, 유닉스서버관리"
   location         : "Bucheon"
   email            :
   links:
